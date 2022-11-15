@@ -1,0 +1,32 @@
+.Todo{
+    color: rgb(211, 67, 67);
+    font-size: 30px;
+    text-align: center;
+    font-style: oblique;
+    font-family: 'ROKAF Slab Serif Bold';
+    margin: 10px;
+}
+
+.TodoInput {
+    text-align: center;
+}
+
+.TodoInput input {
+    margin: 50px;
+    width: 200px;
+    height: 30px;
+    border-style: dashed;
+    border-color: rgb(234, 172, 172);
+    font-size: medium;
+    text-align: center;
+    color: rgb(234, 172, 172);
+}
+
+.TodoInput button {
+    background-color: rgb(234, 172, 172);
+    color: white;
+    font-weight: bold;
+    border-style: none;
+    width: 100px;
+    height: 35px;
+}
