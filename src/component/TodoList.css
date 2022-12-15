@@ -1,14 +1,28 @@
-.Todo{
+body {
+    background-color: antiquewhite;
+}
+
+.Todo h1{
     color: rgb(211, 67, 67);
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
     font-style: oblique;
     font-family: 'ROKAF Slab Serif Bold';
-    margin: 10px;
+    margin: 1%;
+}
+
+.Todo {
+    color: rgb(211, 67, 67);
+    font-size: 20px;
+    text-align: center;
+    font-weight: 100;
+    font-family: 'ROKAF Slab Serif Bold';
+    margin: 5%;
 }
 
 .TodoInput {
     text-align: center;
+    margin-top: 10%;
 }
 
 .TodoInput input {
